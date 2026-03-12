@@ -1,37 +1,48 @@
 # ⚡️ Brown Alii
 **Full-Stack Developer | AI & Data Science Specialist**
 
-> Building intelligent systems at the intersection of Data Science and Digital Security.
+> "I help businesses automate intelligence by building secure, data-driven architectures."
 
 ---
 
-### 💻 Core Stack
-`Python` • `Data Science` • `Machine Learning` • `Deep Learning` • `Full-Stack Dev`
-
-### 🛠 Tools & Environment
-**Languages & Frameworks:** 
-![Python](https://img.shields.io) 
+### 🛡️ Technical Arsenal
+**Core Intelligence:**  
+![Python](https://img.shields.io)
 ![Scikit-Learn](https://img.shields.io)
 ![Pandas](https://img.shields.io)
+![NumPy](https://img.shields.io)
 
-**Environment:** 
+**Environment & Security:**  
 ![Linux](https://img.shields.io)
 ![VS Code](https://img.shields.io)
 ![PyCharm](https://img.shields.io)
 
 ---
 
-### 🔍 Current Endeavors
-*   **Advanced Analytics:** Scaling deep learning models for complex datasets.
-*   **Cybersecurity:** Researching threat detection through AI-driven patterns.
-*   **Architecture:** Crafting robust, Linux-native full-stack applications.
+### 🚀 Featured Intelligence Projects
+*High-impact solutions built to push the boundaries of Data Science.*
+
+*   **💳 Credit Card Fraud Detection** | *Security & ML*
+    *   Developed a robust classification model to identify fraudulent transactions in real-time.
+    *   *Tech:* Scikit-Learn, Pandas, Imbalanced-Learn.
+*   **📊 Stock Market Analyzer** | *Financial Automation*
+    *   Automated data extraction and trend forecasting for equity markets.
+    *   *Tech:* yfinance, NumPy, Matplotlib.
+*   **🎭 Sentiment Analysis Engine** | *NLP*
+    *   Processing unstructured text to derive actionable emotional insights.
+    *   *Tech:* NLTK, Scikit-Learn.
 
 ---
 
-### 📈 Activity Overview
-![GitHub Stats](https://github-readme-stats.vercel.app[Brown-Alii]&show_icons=true&theme=transparent&title_color=007ACC&text_color=ffffff&hide_border=true)
+### 🔍 Current Mission
+- **Advanced Data Science:** Optimizing neural architectures for business scale.
+- **Cybersecurity:** Studying threat vectors in AI-integrated systems.
+- **Personal:** Perfecting the 18g espresso pull and exploring Arch Linux kernels. ☕️🐧
 
 ---
-[LinkedIn] • [Website] • [Email]
 
+### 📈 Metrics
+![GitHub Stats](https://github-readme-stats.vercel.app[Brown-Alii]&show_icons=true&theme=tokyonight&hide_border=true)
 
+---
+[LinkedIn] • [Email] • [Resume]
